@@ -1,0 +1,12 @@
+node_modules/
+out/
+dist/
+*.log
+.env*
+# AI models: fetched by scripts/get-models.mjs
+*.onnx
+*.tflite
+*.task
+*.part
+src/renderer/public/ort/
+e2e_*.png
