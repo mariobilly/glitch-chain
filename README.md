@@ -8,6 +8,29 @@ A desktop app built with Electron, TypeScript and raw WebGL2.
 
 ![Glitch Chain](docs/screenshot.jpg)
 
+<!-- videos:start -->
+## See it in action
+
+<table><tr>
+<td width="64%" valign="top"><a href="docs/videos/tutorial.mp4"><img src="docs/videos/tutorial.jpg" alt="Full tutorial"></a><br><b>▶ <a href="docs/videos/tutorial.mp4">Full tutorial</a></b> (2:39, narrated, with captions)</td>
+<td width="36%" valign="top" align="center"><a href="docs/videos/ad.mp4"><img src="docs/videos/ad.gif" alt="25-second reel" width="240"></a><br><b>▶ <a href="docs/videos/ad.mp4">25-second reel</a></b></td>
+</tr></table>
+
+**Made with Glitch Chain: one portrait, six looks**
+
+<table><tr>
+<td width="33%" align="center"><a href="docs/videos/examples/fragments.mp4"><img src="docs/videos/examples/fragments.gif" alt="Fragments"></a><br><a href="docs/videos/examples/fragments.mp4">Fragments</a></td>
+<td width="33%" align="center"><a href="docs/videos/examples/riso-print.mp4"><img src="docs/videos/examples/riso-print.gif" alt="Riso Print"></a><br><a href="docs/videos/examples/riso-print.mp4">Riso Print</a></td>
+<td width="33%" align="center"><a href="docs/videos/examples/neon-bleed.mp4"><img src="docs/videos/examples/neon-bleed.gif" alt="Neon Bleed"></a><br><a href="docs/videos/examples/neon-bleed.mp4">Neon Bleed</a></td>
+</tr><tr>
+<td width="33%" align="center"><a href="docs/videos/examples/cover-story.mp4"><img src="docs/videos/examples/cover-story.gif" alt="Cover Story"></a><br><a href="docs/videos/examples/cover-story.mp4">Cover Story</a></td>
+<td width="33%" align="center"><a href="docs/videos/examples/swiss-poster.mp4"><img src="docs/videos/examples/swiss-poster.gif" alt="Swiss Poster"></a><br><a href="docs/videos/examples/swiss-poster.mp4">Swiss Poster</a></td>
+<td width="33%" align="center"><a href="docs/videos/examples/type-marquee.mp4"><img src="docs/videos/examples/type-marquee.gif" alt="Type Marquee"></a><br><a href="docs/videos/examples/type-marquee.mp4">Type Marquee</a></td>
+</tr></table>
+
+Click any picture to play the video with sound.
+<!-- videos:end -->
+
 ## What it does
 
 - **Looks**: 28 complete presets (Beat Tear, Face Tear, Datamosh Melt, Pixel Sort Drip, Feedback Tunnel, Neon Noir...).
